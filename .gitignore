@@ -1,15 +1,17 @@
-﻿*/solution.html
-*/solution.css
-*/Solution/
-*/solution/
-*/goal.png
-*/goal1.png
-*/goal2.png
-*/solution1.html
-*/solution2.html
-*/goal.png
-*/solution.css
-*/goal.png
-*/solution.css
-*/goal.png
-*/goal.png
+﻿# Ignore all goal images
+**/goal.png
+**/goal1.png
+**/goal2.png
+
+# Ignore all solution files
+**/solution.html
+**/solution1.html
+**/solution2.html
+**/solution.css
+
+# Ignore solution folders (any case)
+**/solution/
+**/Solution/
+
+# Misc
+.dist/
