@@ -2,11 +2,18 @@
 **/goal.png
 **/goal1.png
 **/goal2.png
+**/goal3.png
+**/goal-small.png
+**/goal-large.png
+
+# Ignore dimension/reference images
+**/dimensions.png
 
 # Ignore all solution files
 **/solution.html
 **/solution1.html
 **/solution2.html
+**/solution3.html
 **/solution.css
 
 # Ignore solution folders (any case)
